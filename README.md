@@ -1,3 +1,5 @@
+> **Fork modifications**: Libraries updated as of 9 May 2026. A Docker image is also built weekly (every Sunday) to keep dependencies fresh.
+
 <h1 align="center">
   <img src=".github/images/mazanoke-app-icon.png" alt="mazanoke icon" width="120">
 
